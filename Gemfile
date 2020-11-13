@@ -77,5 +77,7 @@ group :production do
 end
 
 gem 'rollbar'
+gem "carrierwave"
+gem "cloudinary"
 # gem 'devise'
 # gem 'activeadmin', '2.2.0'
